@@ -4,6 +4,8 @@ import About from "./pages/About";
 import Home from "./pages/Home";
 import './pages/css/bootstrap.css'
 import MyNavLink from "./components/MyNavLink";
+import {Button} from 'antd'
+import 'antd/dist/antd.css'
 
 export default class App extends Component {
   render() {
